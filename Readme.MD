@@ -14,3 +14,18 @@
 #### OBS: exercícios respondidos nos arquivos deste diretório, cada arquivo é uma resposta referente a pergunta de sua númeração. 
 
 ##### para rodar basta ter o Python instalado em sua máquina e executar com o mesmo. EX.: no seu terminal digite => 'python exercicio01.py'
+
+
+
+
+
+## Ilustração 01
+![Ilustracao 01](https://image.ibb.co/h27ihJ/ilustracao01.png)
+
+
+## Ilustração 02
+![Ilustracao 02](https://image.ibb.co/cGqHbd/ilustracao02.png)
+
+
+## Ilustração 03
+![Ilustracao 03](https://image.ibb.co/bOOdGd/ilustracao03.png)
