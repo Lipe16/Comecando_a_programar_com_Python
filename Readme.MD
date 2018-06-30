@@ -1,4 +1,4 @@
-# Lista de exercicios
+# Lista de exercícios
 
 1. Faça um programa que receba a idade do usuário e diga se ele é maior ou menor de idade.
  
