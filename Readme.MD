@@ -1,4 +1,4 @@
-# Lista de exercícios
+# Lista de exercícios (Versão: Python 3.7)
 
 1. Faça um programa que receba a idade do usuário e diga se ele é maior ou menor de idade.
  
